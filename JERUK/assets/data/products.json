@@ -1,0 +1,16 @@
+[
+  {
+    "id": "es-lemon",
+    "name": "Es Lemon",
+    "price": 5000,
+    "image": "assets/images/es-lemon.jpg",
+    "description": "Es lemon segar, manis-asam, cocok untuk cuaca panas."
+  },
+  {
+    "id": "es-jeruk-manis",
+    "name": "Es Jeruk Manis",
+    "price": 5000,
+    "image": "assets/images/es-jeruk-manis.jpg",
+    "description": "Es jeruk manis dengan sentuhan gula alami."
+  }
+]
